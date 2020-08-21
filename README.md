@@ -6,6 +6,8 @@ Our goal is to build a predictive model which will determine whether a text mess
 
 Mailbox
 
+![](https://camo.githubusercontent.com/8314123967957ef424a6e288dc10aec8269ea29f/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031352f31312f31372f32332f33332f6d61696c2d313034383435325f5f3334302e6a7067)
+
 What is Spam?
 Spam is, according to wikipedia, it's described as “the use of electronic messaging systems to send unsolicited bulk messages, especially advertising, indiscriminately.” The word was coined sometime in 2001 or 2002, by the guys working on SpamBayes, the Python probabilistic classifier. Although there are more formal definitions, the key word is “unsolicited”. This means that you did not ask for messages from this source. So if you didn’t ask for the mail it must be spam, Right? Maybe, but if we are looking to differentiate one class from another, we need to start finding patterns.
 
